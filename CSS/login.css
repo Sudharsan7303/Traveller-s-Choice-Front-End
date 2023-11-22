@@ -15,7 +15,7 @@ body{
   display:flex;
   justify-content: center;
   align-items: center;
-  background:url(./images/login4.jpg) ;
+  background:url(../images/login4.jpg) ;
   background-position: center; ;
 }
 
