@@ -4,4 +4,4 @@ This is a simple Front end project which showcases the Front end development Ski
 -HTML
 -CSS
 -JS
--Bootstrap
+-Bootstrap(Framework)
